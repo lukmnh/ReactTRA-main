@@ -1,0 +1,23 @@
+.card__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100dvh;
+  min-height: 100vh;
+
+  background-color: transparent;
+}
+
+.card__body {
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+}
+
+textarea {
+  max-width: 100%;
+}
